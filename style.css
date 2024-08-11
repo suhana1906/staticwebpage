@@ -1,0 +1,496 @@
+*{
+    margin: 0%;
+    
+}
+#among{
+   display: flex;
+   /* flex-direction: row; */
+   
+   justify-content: space-between;
+   align-items: center;
+   background-color: beige; 
+}
+.among2:hover{
+    text-decoration: underline;
+    color: red;
+
+}
+#Vin{
+    margin-left: 250px;
+    font-size: 100px;
+     font-family: "Pacifico", cursive;
+     
+}
+#vin1{
+    margin-top: 50px;
+    margin-right: 300px;
+    font-size: 17px;
+    font-family: "Pacifico", cursive;
+    color: darkred;
+}
+ul{
+    display: flex;
+    padding: 5px;
+   
+   
+}
+.among2{
+    margin: 0px 20px;
+   font-size: 16px;
+   color:black;
+   font-weight: 600;
+}
+.adi{
+    background-color: black;
+    width: 100%;
+    height: 700px;
+  
+
+}
+#hen{
+    position: relative;
+    /* background-size: cover;
+    background-attachment: fixed; */
+}
+#Ambition{
+    position: absolute;
+    left: 25%;
+    top: 30.5%;
+    font-size: 22px;
+    color: black;
+    
+}
+#henry{
+    position: absolute;
+    left: 30%;
+    top: 36%;
+    font-size: 111px;
+    color: darkred;
+    
+    
+}
+#Amb1{
+    position: absolute;
+    left: 38%;
+    top: 60%;
+    font-size: 25px;
+    color: white  
+}
+#ex{
+    position: absolute;
+    left: 50%;
+    top: 75%;
+    font-size: 25px;
+    color: black;
+    background-color: beige;
+}
+#mila{
+    width: 100%;
+    height: 600px;
+    background-color: white;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    position: relative;
+  
+}
+
+
+#hal{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 10%;
+    top: 5%;
+    font-size: 60px;
+}
+#widow{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 10%;
+    top: 15%;
+    font-size: 60px;
+}
+#youth{
+    font-family: "Edu VIC WA NT Beginner", cursive;
+    position: absolute;
+    left: 10%;
+    font-size: 20px;
+    top: 30%;
+}
+#major{
+  
+    width: 100%;
+    height: 1000px;
+    background-color: blue;
+    position: relative;
+    /* display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows: repeat(2,1fr); */
+
+}
+
+#duck{
+    width: 100px;
+    height: 0.1px;
+}
+
+
+#service{
+    position: absolute;
+    left: 10%;
+    top: 5%;
+    font-family: "DM Sans", sans-serif;
+    font-size: 60px;
+    color: darkred;
+
+}
+#choose{
+    position: absolute;
+    left: 10%;
+    top: 5%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+
+}
+
+#big1{
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    width: 300px;
+    height: 350px;
+   background-color: antiquewhite;
+}
+#big2{
+    position: absolute;
+    top: 20%;
+    left: 40%;
+    width: 300px;
+    height: 350px;
+    background-color: antiquewhite;
+  
+
+}
+#big3{
+    position: absolute;
+    width: 300px;
+    height: 350px;
+    top: 20%;
+  right: 10%;
+  background-color:antiquewhite
+   
+
+}
+#big4{
+    position: absolute;
+    top: 60%;
+    left: 10%;
+    width: 300px;
+    height: 350px;
+   background-color: antiquewhite;
+}
+
+#big5{
+    position: absolute;
+    top: 60%;
+    left: 40%;
+    width: 300px;
+    height: 350px;
+   background-color: antiquewhite;
+}
+
+#big6{
+    position: absolute;
+    top: 60%;
+    left: 70%;
+    width: 300px;
+    height: 350px;
+   background-color: antiquewhite;
+}
+
+#dev{
+    font-size: 25px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 10%;
+    top: 8%;
+
+}
+#hexa{
+    font-size: 15px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 10%;
+    top: 60%;
+}
+#fin{
+    position: absolute;
+    left: 40%;
+    top: 80%;
+    transform: translateX(-40%);
+    font-size: 25px;
+    color: black;
+    background-color: indianred;
+}
+
+
+    footer{
+        margin: 120% 0px 0px 0px;
+        
+    }
+
+#hyundai{
+    width: 100%;
+    height: 450px;
+    background-color: gray;
+    position: relative;
+    
+}
+#ress{
+    font-family: Arial, Helvetica, sans-serif;
+   
+    
+    position: absolute;
+    left: 10%;
+    top: 5%;
+    font-size: 35px;
+
+}
+
+#fer{
+    position: absolute;
+    left: 10%;
+    top: 30%;
+    font-size: 17px;
+
+}
+.wish{
+    position: absolute;
+    left: 10%;
+    top: 40%;
+    font-size: 25px;
+    
+
+}
+.wish:hover{
+    color: orange;
+}
+.hist{
+    position: absolute;
+    left: 13%;
+    top: 40%;
+    font-size: 25px;
+
+}
+.hist:hover{
+    color: red;
+}
+.deru{
+    position: absolute;
+    left: 16%;
+    top: 40%;
+    font-size: 25px;
+}
+.deru:hover{
+    color: darkmagenta;
+}
+.darvin{
+    position: absolute;
+    left: 19%;
+    top: 40%;
+    font-size: 25px;
+
+}
+.darvin:hover{
+    color: red;
+}
+#fd{
+    position: absolute;
+    left: 10%;
+    top: 55%;
+    font-size: 17px;
+   
+
+
+}
+#hem{
+    font-size: 30px;
+    background-color:grey;
+    position: absolute;
+    left: 60%;
+    top: 15%;
+    border: 2px solid black;
+    /* font-size: 17px; */
+   
+}
+#twist{
+    font-size: 17px;
+    background-color: grey;
+    position: absolute;
+    left: 60%;
+    top: 10%;
+
+}
+#vig{
+    font-size: 17px;
+    background-color: grey;
+    position: absolute;
+    left: 60%;
+    top: 27%;
+
+}
+#qwerty{
+    font-size: 30px;
+    background-color:grey;
+    position: absolute;
+    left: 60%;
+    top: 32%;
+    border: 2px solid black;
+    /* font-size: 17px; */
+   
+}
+#vir{
+    font-size: 17px;
+    background-color: grey;
+    position: absolute;
+    left: 60%;
+    top: 44%;
+
+}
+#qualify{
+    font-size: 30px;
+    background-color: grey;
+    position: absolute;
+    left: 60%;
+    top: 49%;
+    border: 2px solid black;
+    /* font-size: 17px; */
+   
+}
+#virtus{
+    font-size: 17px;
+    background-color: grey;
+    position: absolute;
+    left: 60%;
+    top: 61%;
+
+}
+#qualifier{
+    font-size: 30px;
+    height: 80px;
+    background-color: grey;
+    position: absolute;
+    left: 60%;
+    top: 66%;
+    border: 2px solid black;
+    /* font-size: 17px; */
+   
+}
+#virtus{
+    font-size: 17px;
+    background-color: grey;
+    position: absolute;
+    left: 60%;
+    top: 61%;
+
+}
+#digital{
+    position: absolute;
+    left: 79%;
+    top: 91%;
+    font-size: 23px;
+    background-color: black;
+    color: white;
+
+}
+#digital:hover{
+    background-color: white;
+    color: black;
+}
+html{
+    scroll-behavior: smooth;
+    
+}
+
+::-webkit-scrollbar{
+    width: 15px;
+}
+::-webkit-scrollbar-track{
+    background-color: white;
+}
+::-webkit-scrollbar-thumb{
+    background-color:  red;
+}
+.namy {
+    transition: transform 0.3s ease-in-out;
+}
+
+.namy:hover {
+    transform: scale(1.2);
+}
+.santa1 {
+    transition: transform 0.3s ease-in-out;
+}
+
+.santa1:hover {
+    transform: scale(1.2);
+}
+.santa {
+    transition: transform 0.3s ease-in-out;
+}
+
+.santa:hover {
+    transform: scale(1.2);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
